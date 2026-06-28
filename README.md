@@ -14,9 +14,9 @@ next, per the official Qualification Criteria.
 | 1 | Rule-Based AI Chatbot (ARIA) 
 | 2 | Preference-Based Recommendation System 
 | 3 | Basic Classification Model 
-
+**
 ## Project 1: Rule-Based AI Chatbot — "ARIA" 🤖
-
+**
 ### Goal
 Create a simple rule-based chatbot that responds to predefined user inputs.
 
@@ -58,7 +58,7 @@ ARIA: Hello! I'm ARIA, your rule-based AI assistant. How can I help?
 
 ---
 
-**## Project 2: Preference-Based Recommendation System 🎯**
+****## Project 2: Preference-Based Recommendation System 🎯****
 
 ### Goal
 Create a simple recommendation system based on user preferences.
